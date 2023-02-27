@@ -1,1 +1,1 @@
-# integrazione_apple_pay
+# Integrazione Apple Pay - JS + PHP
